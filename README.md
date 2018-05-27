@@ -6,7 +6,7 @@
 
 	bundle install
 
-	#nigrate database
+	#migrate database
 	rake db:migrate
 
 	#run app
